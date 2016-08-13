@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FREEZONE - ZONE LIBRE]]></title>
+        <description><![CDATA[FREEZONE - ZONE LIBRE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 13 Aug 2016 13:03:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Freezone - Zone Libre is a very little entitled company. We spend our days (& nights) imagining stories and patents. Creativity has no limit and no border.</p>]]></description>
+            <link>undefinedfreezone-zone-libre-is-a-very-little-entitled-company-we/index.html</link>
+            <guid isPermaLink="false">b4960519-9548-4914-a59d-9ec178b3f77c</guid>
+            <pubDate>Sat, 13 Aug 2016 13:03:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
